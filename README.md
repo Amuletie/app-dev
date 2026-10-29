@@ -5,17 +5,12 @@ My first repository
 <!-- ABOUT THE PROJECT -->
 ## Hacksaw Ridge
 
-![HackSaw Ridge](Hacksaw Ridge.jpg)
+![HackSaw Ridge]("ridge.jpg")
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Desmond Doss is a deeply religious Seventh-day Adventist who serves as a combat medic in World War II. Defined by his absolute refusal to carry a weapon or take a human life, he overcomes intense military hostility and ostracization to prove his courage. During the Battle of Okinawa, his fierce conviction drives him to single-handedly save 75 wounded men on Hacksaw Ridge, making him the first conscientious objector to receive the Congressional Medal of Honor.
 
 Here's why I like this movie:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Desmond Doss saves 75 hurt soldiers in World War II without ever using a gun.
+* He shows great bravery by standing up for what he believes in, even when others laugh at him.
+* The battle scenes look very real, which makes his rescues feel like a true miracle. :smile:
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people who have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>
